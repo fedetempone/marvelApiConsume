@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/marvelApiConsume/static/css/main.d59bfcd8.css",
+    "main.js": "/marvelApiConsume/static/js/main.236c68d2.js",
+    "static/media/drstrange.mp4": "/marvelApiConsume/static/media/drstrange.3e262573942a816514f6.mp4",
+    "static/media/bannerMarvel.jpg": "/marvelApiConsume/static/media/bannerMarvel.d1001d0974c1dba64eea.jpg",
+    "static/media/introMarvel.mp4": "/marvelApiConsume/static/media/introMarvel.105c7408c0eda5e5cb44.mp4",
+    "static/media/characters.jpg": "/marvelApiConsume/static/media/characters.a77beb18bcc99d8e9a6f.jpg",
+    "index.html": "/marvelApiConsume/index.html",
+    "main.d59bfcd8.css.map": "/marvelApiConsume/static/css/main.d59bfcd8.css.map",
+    "main.236c68d2.js.map": "/marvelApiConsume/static/js/main.236c68d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59bfcd8.css",
+    "static/js/main.236c68d2.js"
+  ]
+}
